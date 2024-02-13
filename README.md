@@ -1,3 +1,8 @@
+
+![Hi][logo]
+
+[logo]: https://github.com/Drakoshka13/Drakoshka13/blob/main/header.png "Hi"
+
 - 👋 Hi, I’m @Drakoshka13
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
