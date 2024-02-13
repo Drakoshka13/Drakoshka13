@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Drakoshka13
 - 🌍 Kazan, Russia
-- 📬 How to reach me: <a href="t.me/drakoshka13">Telegram</a> <a href="drakoshkaren@gmail.com">Gmail</a> 
+- 📬 How to reach me: <a href="https://t.me/drakoshka13">Telegram</a> <a href="https://drakoshkaren@gmail.com">Gmail</a> 
 
 
 <!---
