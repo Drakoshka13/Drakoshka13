@@ -19,3 +19,43 @@ You can click the Preview link to take a look at your changes.
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+<table class="iksweb">
+	<tbody>
+		<tr>
+			<td>Project </td>
+			<td> Description</td>
+			<td>Tools</td>
+		</tr>
+		<tr>
+			<td>SmartCalc2.0</td>
+			<td>Qt приложение калькулятора с функцией отрисовки графика. Дополнительно реализованы кредитный и депозитный калькуляторы </td>
+			<td> C++, QT, MVC</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
