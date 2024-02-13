@@ -3,7 +3,7 @@
 
 [logo]: https://github.com/Drakoshka13/Drakoshka13/blob/main/header.png "Hi"
 
-- 👋 Hi, I’m @Drakoshka13
+- 👋 I’m @Drakoshka13
 - 🌍 Kazan, Russia
 - 📬 How to reach me: <a href="https://t.me/drakoshka13">Telegram</a> <a href="mailto:drakoshkaren@gmail.com">Gmail</a> 
 
