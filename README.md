@@ -12,15 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Student+of+School+21" alt="Typing SVG" /></a>
 
-<h2>Projects</h2>
-| Project | Description | Tools |
-|---|---|---|
-| SmartCalc2.0 | Qt приложение калькулятора с функцией отрисовки графика. Дополнительно реализованы кредитный и депозитный калькуляторы | C++, QT, MVC |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-<table class="iksweb">
+<table>
 	<tbody>
 		<tr>
 			<td>Project </td>
@@ -28,34 +20,34 @@ You can click the Preview link to take a look at your changes.
 			<td>Tools</td>
 		</tr>
 		<tr>
-			<td>SmartCalc2.0</td>
+			<td>SmartCalc 2.0</td>
 			<td>Qt приложение калькулятора с функцией отрисовки графика. Дополнительно реализованы кредитный и депозитный калькуляторы </td>
-			<td> C++, QT, MVC</td>
+			<td> C++, OOP, QT, MVC, Makefile, Gtest</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>3DViewer 2.0</td>
+			<td>Qt приложение для построения  3D модели по координатам</td>
+			<td> C++, OOP, QT, MVC, OpenGL, Gtest</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Maze</td>
+			<td>Qt приложение для отрисовки, генерации, решения и сохранения лабиринтов</td>
+			<td> C++, OOP, QT, MVC, OpenGL, Gtest</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>SimpleNavigator</td>
+			<td>Консольное приложение для работы с графами и поиска наикрайтчайших путей</td>
+			<td> C++, OOP, QT, MVC, OpenGL, Gtest</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Containers</td>
+			<td>Разработка стандартной библитотеки С++ STL с нуля</td>
+			<td> C++, OOP, Gtest</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Matrix+</td>
+			<td>Библиотека для работы с матрицами</td>
+			<td> C++, OOP, Gtest</td>
 		</tr>
 	</tbody>
 </table>
