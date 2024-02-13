@@ -30,27 +30,27 @@ You can click the Preview link to take a look at your changes.
 			<td> C++, OOP, QT, MVC, Makefile, Gtest</td>
 		</tr>
 		<tr>
-			<td>3DViewer 2.0</td>
+			<td><a href="https://github.com/Drakoshka13/3DViewer_v2.0">3DViewer 2.0</a></td>
 			<td>Qt приложение для построения  3D модели по координатам</td>
 			<td> C++, OOP, QT, MVC, OpenGL, Gtest</td>
 		</tr>
 		<tr>
-			<td>Maze</td>
+			<td><a href="https://github.com/Drakoshka13/Maze_S21">Maze</a></td>
 			<td>Qt приложение для отрисовки, генерации, решения и сохранения лабиринтов</td>
 			<td> C++, OOP, QT, MVC, OpenGL, Gtest</td>
 		</tr>
 		<tr>
-			<td>SimpleNavigator</td>
+			<td><a href="https://github.com/Drakoshka13/Simple_Navigator_S21">SimpleNavigator</a></td>
 			<td>Консольное приложение для работы с графами и поиска наикрайтчайших путей</td>
 			<td> C++, OOP, QT, MVC, OpenGL, Gtest</td>
 		</tr>
 		<tr>
-			<td>Containers</td>
+			<td><a href="https://github.com/Drakoshka13/s21_containers">Containers</a></td>
 			<td>Разработка стандартной библитотеки С++ STL с нуля</td>
 			<td> C++, OOP, Gtest</td>
 		</tr>
 		<tr>
-			<td>Matrix+</td>
+			<td><a href="https://github.com/Drakoshka13/s21_matrixplus">Matrix+</a></td>
 			<td>Библиотека для работы с матрицами</td>
 			<td> C++, OOP, Gtest</td>
 		</tr>
