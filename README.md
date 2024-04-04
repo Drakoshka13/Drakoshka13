@@ -69,3 +69,20 @@ You can click the Preview link to take a look at your changes.
 		</tr>
 	</tbody>
 </table>
+
+<h2> SQL projects </h2>
+	
+<table>
+	<tbody>
+		<tr>
+			<td><b>Project name </b></td>
+			<td><b>Description</b></td>
+			<td><b>Tools</b></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/Drakoshka13/SQL_Info21">SQL_info</a></td>
+			<td>Анализ и статистика данных</td>
+			<td> SQL</td>
+		</tr>
+	</tbody>
+</table>
