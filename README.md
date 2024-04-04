@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Drakoshka13/SQL_Info21">SQL_info</a></td>
-			<td>Анализ и статистика данных</td>
+			<td>Создание, анализ и статистика данных                 </td>
 			<td> SQL</td>
 		</tr>
 	</tbody>
